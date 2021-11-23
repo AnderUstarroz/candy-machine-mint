@@ -6,9 +6,19 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: #303030;
-  color: #FFFFFF;
+  color: black;
+  background-color: white;
 }
-
+h1{
+  color:#7a205b; 
+}
+.wallet{
+  text-align: right;
+  padding: 15px;
+}
+.bal{
+  padding: 15px;;
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
